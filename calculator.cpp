@@ -19,3 +19,8 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+int Calculator::Add_10 (double a)
+{
+    return a + 10;
+}
